@@ -1,0 +1,2 @@
+Interview questions from LinkedIn
+1: In Automation Testing where you use HashMap, HashTable, LinkedHashMap, and TreeMap. Tell me the Scenarios.
